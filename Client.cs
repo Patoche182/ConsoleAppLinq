@@ -8,8 +8,8 @@ namespace ConsoleAppLinq
 {
     public class Client
     {
-        public string _prenom; 
-        public string _nom; 
+        public string? _prenom; 
+        public string? _nom; 
         public int _age; 
     }
 }
